@@ -20,7 +20,7 @@ Estagiário de Análise e Desenvolvimento de Sistemas na **2RPnet** e estudante 
 
 
 ## 🛠️ Projetos em Destaque
-- **Extração de Campos de Notas Fiscais com FastAPI e Gemini API**: Aplicação web desenvolvida com FastAPI e integrada à API do Gemini para extrair automaticamente campos de notas fiscais a partir de arquivos JPG, PNG e PDF. Oferece uma API escalável e interface intuitiva para automação de processos financeiros. O propósito e automatizar e otimizar a gestão de notas fiscais, reduzindo erros manuais e agilizando o processamento de dados financeiros por meio de extração inteligente e integração eficiente.. ([link para o repositório])
+- **Extração de Campos de Notas Fiscais com FastAPI e Gemini API**: Aplicação web desenvolvida com FastAPI e integrada à API do Gemini para extrair automaticamente campos de notas fiscais a partir de arquivos JPG, PNG e PDF. Oferece uma API escalável e interface intuitiva para automação de processos financeiros. O propósito e automatizar e otimizar a gestão de notas fiscais, reduzindo erros manuais e agilizando o processamento de dados financeiros por meio de extração inteligente e integração eficiente.. (https://github.com/PedroDias010/LSD)
 
 
 ## 📫 Entre em Contato
