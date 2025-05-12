@@ -4,8 +4,8 @@ Estagiário de Análise e Desenvolvimento de Sistemas na **2RPnet** e estudante 
 
 ## 🚀 Habilidades
 - **Linguagens**: HTML, CSS, Java, JavaScript, Python
-- **Ferramentas**: Git, GitHub, VS Code
-- **Interesses**: Desenvolvimento web, automação, inteligência artificial
+- **Ferramentas**: Git, GitHub, VS Code, Docker
+- **Interesses**: Desenvolvimento web, inteligência artificial
 
 ## 🏆 Certificações
 - **Gemini for Application Developers** (Google Cloud)
@@ -20,7 +20,7 @@ Estagiário de Análise e Desenvolvimento de Sistemas na **2RPnet** e estudante 
 
 
 ## 🛠️ Projetos em Destaque
-- **[Nome do Projeto]**: Uma aplicação web construída com HTML, CSS e JavaScript para [descreva o propósito]. ([link para o repositório])
+- **Extração de Campos de Notas Fiscais com FastAPI e Gemini API**: Aplicação web desenvolvida com FastAPI e integrada à API do Gemini para extrair automaticamente campos de notas fiscais a partir de arquivos JPG, PNG e PDF. Oferece uma API escalável e interface intuitiva para automação de processos financeiros. O propósito e automatizar e otimizar a gestão de notas fiscais, reduzindo erros manuais e agilizando o processamento de dados financeiros por meio de extração inteligente e integração eficiente.. ([link para o repositório])
 
 
 ## 📫 Entre em Contato
