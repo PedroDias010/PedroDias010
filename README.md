@@ -3,9 +3,7 @@
 Estagiário de Análise e Desenvolvimento de Sistemas na **2RPnet** e estudante no **SENAI Gaspar Ricardo Junior**. Sou apaixonado por criar soluções com código e explorar o potencial da tecnologia para resolver problemas reais.
 
 ## 🚀 Habilidades
-- **Linguagens**: HTML, CSS, Java, JavaScript, Python
-- **Ferramentas**: Git, GitHub, VS Code, Docker
-- **Interesses**: Desenvolvimento web, inteligência artificial
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,discord,docker,git,nodejs,postgres,postman,py,react,tailwind,vscode)](https://skillicons.dev)
 
 ## 🏆 Certificações
 - **Gemini for Application Developers** (Google Cloud)
