@@ -1,6 +1,6 @@
 # Olá, sou Pedro Dias! 👋
 
-Estagiário de Análise e Desenvolvimento de Sistemas na **2RPnet** e estudante no **SENAI Gaspar Ricardo Junior**. Sou apaixonado por criar soluções com código e explorar o potencial da tecnologia para resolver problemas reais.
+Desenvolvedor FullStack de Análise e Desenvolvimento de Sistemas na **2RPnet** e estudante no **SENAI Gaspar Ricardo Junior**. Sou apaixonado por criar soluções com código e explorar o potencial da tecnologia para resolver problemas reais.
 
 ## 🚀 Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,discord,docker,git,nodejs,postgres,postman,py,react,tailwind,vscode)](https://skillicons.dev)
