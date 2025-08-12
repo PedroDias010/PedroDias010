@@ -22,8 +22,8 @@ Estagiário de Análise e Desenvolvimento de Sistemas na **2RPnet** e estudante 
 
 
 ## 📫 Entre em Contato
-- LinkedIn: www.linkedin.com/in/pedro-henrique-dias-de-paula-santos-4486a6298
-- E-mail: pedrohenriquedias966@gmail.com
+- LinkedIn: www.linkedin.com/in/pedro-dias-4486a6298
+- E-mail: pedrohdiasdev@gmail.com
 
 ## 🎯 Curiosidade
 "Quando não estou codificando, estou explorando novas ferramentas de IA ou assistindo tutoriais sobre as últimas tendências em desenvolvimento web!"
